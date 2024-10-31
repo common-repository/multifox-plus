@@ -1,0 +1,27 @@
+
+/*--------------------------------------------------------------
+   Logo
+--------------------------------------------------------------*/
+
+.mfx-logo-container a {
+    color: inherit;
+}
+
+.mfx-logo-container a img {
+    display: inline-block;
+    vertical-align: middle;
+    vertical-align: middle;
+}
+
+.mfx-logo-container a .site-title {
+    color: var(--mfxHeadAltColor);
+    clear: both;
+    display: block;
+    font-family: var(--mfxFontTypo_Alt);
+    font-size: var(--mfxFontSize_H2);
+    font-weight: bold;
+    line-height: 1.1;
+    transition: inherit; 
+}
+
+.mfx-logo-container a:hover .site-title { color: inherit; }

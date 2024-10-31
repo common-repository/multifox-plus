@@ -1,0 +1,3481 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MultifoxPlus Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-20 16:11+0530\n"
+"PO-Revision-Date: 2019-07-19 11:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: Creative Brahma\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../customizer/controls/background/class-control-background.php:24
+msgid "No file selected"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:25
+#: ../customizer/controls/background/class-control-background.php:118
+msgid "Less Settings"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:26
+#: ../customizer/controls/background/class-control-background.php:123
+msgid "More Settings"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:97
+msgid "Background Color"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:103
+msgid "Background Image"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:108
+msgid "No File Selected"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:112
+#: ../customizer/controls/upload/class-control-upload.php:98
+#: ../modules/menu/walker/backend-menu-walker.php:432
+#: ../modules/site-logo/customizer/index.php:65
+msgid "Remove"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:114
+#: ../customizer/controls/upload/class-control-upload.php:100
+msgid "Select File"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:135
+msgid "No Repeat"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:138
+msgid "Repeat All"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:141
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:144
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:153
+msgid "Left Top"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:156
+msgid "Left Center"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:159
+msgid "Left Bottom"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:162
+msgid "Right Top"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:165
+msgid "Right Center"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:168
+msgid "Right Bottom"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:171
+msgid "Center Top"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:174
+msgid "Center Center"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:177
+msgid "Center Bottom"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:184
+msgid "Background Size"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:188
+#: ../modules/blog/customizer/index.php:102
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:77
+msgid "Cover"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:192
+msgid "Contain"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:196
+msgid "Auto"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:206
+#: ../customizer/controls/typography/class-control-typography.php:27
+#: ../customizer/controls/typography/class-control-typography.php:354
+#: ../customizer/controls/typography/class-control-typography.php:404
+#: ../customizer/controls/typography/class-control-typography.php:419
+#: ../customizer/controls/typography/class-control-typography.php:437
+#: ../customizer/controls/typography/class-control-typography.php:455
+#: ../customizer/controls/typography/class-control-typography.php:471
+msgid "Inherit"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:209
+msgid "Scroll"
+msgstr ""
+
+#: ../customizer/controls/background/class-control-background.php:212
+#: ../modules/blog/customizer/index.php:560
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:297
+msgid "Fixed"
+msgstr ""
+
+#: ../customizer/controls/fontawesome/class-control-fontawesome.php:1159
+msgid "Reset"
+msgstr ""
+
+#: ../customizer/controls/switch/class-control-switch.php:93
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:152
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:218
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:227
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:236
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:245
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:254
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:263
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:272
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:281
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:128
+msgid "On"
+msgstr ""
+
+#: ../customizer/controls/switch/class-control-switch.php:97
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:153
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:219
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:228
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:237
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:246
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:255
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:264
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:273
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:282
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:129
+msgid "Off"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:28
+msgid "Thin 100"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:29
+msgid "Extra-Light 200"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:30
+msgid "Light 300"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:31
+msgid "Normal 400"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:32
+msgid "Medium 500"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:33
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:34
+msgid "Bold 700"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:35
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:36
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:37
+#: ../customizer/controls/typography/class-control-typography.php:38
+#: ../customizer/controls/typography/class-control-typography.php:416
+msgid "Normal"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:39
+msgid "Bold"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:40
+#: ../modules/blog/customizer/index.php:524
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:272
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:349
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:407
+#: ../modules/breadcrumb/customizer/settings/general.php:91
+#: ../modules/breadcrumb/customizer/settings/general.php:121
+#: ../modules/breadcrumb/customizer/settings/general.php:161
+#: ../modules/breadcrumb/templates/default/index.php:28
+#: ../modules/demo-content/index.php:26
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:56
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:43
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:111
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:315
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:71
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:81
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:43
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:180
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:80
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:42
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:40
+msgid "Default"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:228
+msgid "Font Family"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:229
+msgid "Font Weight"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:230
+msgid "Text Transform"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:231
+msgid "Text Align"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:232
+msgid "Text Decoration"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:233
+msgid "Font Style"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:234
+msgid "Font Size"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:235
+msgid "Line Height"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:236
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:355
+msgid "Other System Fonts"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:368
+msgid "Custom Fonts"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:381
+msgid "Google"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:417
+msgid "Italic"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:418
+msgid "Oblique"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:432
+#: ../customizer/controls/typography/class-control-typography.php:467
+#: ../modules/blog/customizer/index.php:226
+#: ../modules/blog/customizer/index.php:559
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:130
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:296
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:322
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:101
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:127
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:141
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:155
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:200
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:214
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:228
+#: ../modules/menu/walker/backend-menu-walker.php:314
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:55
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:104
+msgid "None"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:433
+msgid "Capitalize"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:434
+msgid "Uppercase"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:435
+msgid "Lowercase"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:436
+msgid "Initial"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:450
+msgid "Unset"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:451
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:129
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:56
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:99
+#: ../modules/menu/walker/backend-menu-walker.php:299
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:183
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:45
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:432
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:118
+msgid "Left"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:452
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:130
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:57
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:100
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:184
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:46
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:433
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:119
+msgid "Center"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:453
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:131
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:58
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:101
+#: ../modules/menu/walker/backend-menu-walker.php:301
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:185
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:47
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:434
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:120
+msgid "Right"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:454
+msgid "Justify"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:468
+msgid "Underline"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:469
+msgid "Overline"
+msgstr ""
+
+#: ../customizer/controls/typography/class-control-typography.php:470
+msgid "Line Through"
+msgstr ""
+
+#: ../customizer/customizer.php:51
+msgid "Enter desktop preview mode"
+msgstr ""
+
+#: ../customizer/customizer.php:55
+msgid "Enter tablet landscape preview mode"
+msgstr ""
+
+#: ../customizer/customizer.php:58
+msgid "Enter tablet preview mode"
+msgstr ""
+
+#: ../customizer/customizer.php:61
+msgid "Enter mobile preview mode"
+msgstr ""
+
+#: ../modules/404/customizer/index.php:33
+msgid "404 Page"
+msgstr ""
+
+#: ../modules/add-js/customizer/index.php:40
+#: ../modules/add-js/customizer/index.php:61
+msgid "Additional JS"
+msgstr ""
+
+#: ../modules/add-js/customizer/index.php:62
+msgid "Add your own JS code here to customize your theme."
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:41
+#: ../modules/blog/customizer/index.php:338
+#: ../modules/blog/customizer/index.php:503
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:177
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:264
+msgid "Read More"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:59
+msgid "Blog Settings"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:70
+msgid "Blog Archives"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:90
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:72
+msgid "Post Layout"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:94
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:75
+msgid "Grid"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:98
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:76
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:112
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:95
+msgid "List"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:122
+#: ../modules/blog/customizer/index.php:143
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:83
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:93
+msgid "Post Style"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:124
+#: ../modules/blog/customizer/index.php:145
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:86
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:96
+#: ../modules/site-layout/layouts/boxed/index.php:39
+msgid "Boxed"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:163
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:103
+msgid "Columns"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:167
+#: ../modules/footer/layouts/standard-footer/index.php:82
+msgid "One Column"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:171
+msgid "One Half Column"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:175
+msgid "One Third Column"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:195
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:116
+msgid "List Type"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:199
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:119
+msgid "Left Thumb"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:203
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:120
+msgid "Right Thumb"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:224
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:127
+msgid "Elements Alignment"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:227
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:131
+msgid "Align Left"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:228
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:132
+#: ../modules/breadcrumb/layouts/align-center/index.php:24
+msgid "Align Center"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:229
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:133
+#: ../modules/breadcrumb/layouts/align-right/index.php:24
+msgid "Align Right"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:248
+msgid "Enable Equal Height"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:251
+#: ../modules/blog/customizer/index.php:299
+#: ../modules/blog/customizer/index.php:407
+#: ../modules/blog/customizer/index.php:430
+#: ../modules/blog/customizer/index.php:478
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:141
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:151
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:161
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:228
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:237
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:248
+#: ../modules/breadcrumb/customizer/settings/general.php:68
+#: ../modules/breadcrumb/customizer/settings/general.php:114
+#: ../modules/breadcrumb/customizer/settings/general.php:184
+#: ../modules/hooks/customizer/settings/bottom-hook.php:67
+#: ../modules/hooks/customizer/settings/content-after-hook.php:65
+#: ../modules/hooks/customizer/settings/content-before-hook.php:65
+#: ../modules/hooks/customizer/settings/top-hook.php:67
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:267
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:284
+#: ../modules/sidebar/customizer/settings/global.php:95
+#: ../modules/site-layout/layouts/boxed/index.php:76
+#: ../modules/site-loader/customizer/index.php:63
+#: ../modules/site-to-top/customizer/index.php:60
+msgid "Yes"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:252
+#: ../modules/blog/customizer/index.php:300
+#: ../modules/blog/customizer/index.php:408
+#: ../modules/blog/customizer/index.php:431
+#: ../modules/blog/customizer/index.php:479
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:142
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:152
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:162
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:229
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:238
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:249
+#: ../modules/breadcrumb/customizer/settings/general.php:69
+#: ../modules/breadcrumb/customizer/settings/general.php:115
+#: ../modules/breadcrumb/customizer/settings/general.php:185
+#: ../modules/hooks/customizer/settings/bottom-hook.php:68
+#: ../modules/hooks/customizer/settings/content-after-hook.php:66
+#: ../modules/hooks/customizer/settings/content-before-hook.php:66
+#: ../modules/hooks/customizer/settings/top-hook.php:68
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:268
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:285
+#: ../modules/sidebar/customizer/settings/global.php:96
+#: ../modules/site-layout/layouts/boxed/index.php:77
+#: ../modules/site-loader/customizer/index.php:64
+#: ../modules/site-to-top/customizer/index.php:61
+msgid "No"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:296
+msgid "Display Gallery Slider"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:332
+msgid "Elements Positioning"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:335
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:174
+msgid "Feature Image"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:336
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:175
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:39
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:138
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:52
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:106
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:142
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:456
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:92
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:94
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:45
+msgid "Title"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:337
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:176
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:158
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:165
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:60
+msgid "Content"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:339
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:178
+msgid "Meta Group"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:340
+#: ../modules/blog/customizer/index.php:366
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:179
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:205
+msgid "Author"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:341
+#: ../modules/blog/customizer/index.php:367
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:180
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:206
+msgid "Date"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:342
+#: ../modules/blog/customizer/index.php:368
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:181
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:207
+msgid "Comments"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:343
+#: ../modules/blog/customizer/index.php:369
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:46
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:182
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:208
+msgid "Categories"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:344
+#: ../modules/blog/customizer/index.php:370
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:183
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:209
+msgid "Tags"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:345
+#: ../modules/blog/customizer/index.php:371
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:184
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:210
+msgid "Social Share"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:346
+#: ../modules/blog/customizer/index.php:372
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:185
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:211
+msgid "Likes & Views"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:363
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:217
+msgid "Meta Group Positioning"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:374
+msgid "Note: Use max 3 items for better results."
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:404
+msgid "Enable Post Format"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:427
+msgid "Enable Excerpt Text"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:451
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:256
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:452
+msgid "Put Excerpt Length"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:474
+msgid "Display Video & Audio for Posts"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:475
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:242
+msgid ""
+"YES! to display video & audio, instead of feature image for posts"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:500
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:263
+msgid "Read More Text"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:501
+msgid "Put the read more text here"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:522
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:269
+msgid "Image Hover Style"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:525
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:273
+msgid "Blur"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:526
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:274
+msgid "Black and White"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:527
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:275
+msgid "Brightness"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:528
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:276
+msgid "Fade InLeft"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:529
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:277
+msgid "Fade InRight"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:530
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:278
+msgid "Hue-Rotate"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:531
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:279
+msgid "Invert"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:532
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:280
+msgid "Opacity"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:533
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:281
+msgid "Rotate"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:534
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:282
+msgid "Rotate Alt"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:535
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:283
+msgid "Scale In"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:536
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:284
+msgid "Scale Out"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:537
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:285
+msgid "Sepia"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:538
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:286
+msgid "Tint"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:540
+msgid "Choose image hover style to display archives pages."
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:557
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:293
+msgid "Image Overlay Style"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:561
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:298
+msgid "Top to Bottom"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:562
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:299
+msgid "Bottom to Top"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:563
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:300
+msgid "Right to Left"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:564
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:301
+msgid "Left to Right"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:565
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:302
+msgid "Middle"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:566
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:303
+msgid "Middle Radial"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:567
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:304
+msgid "Gradient - Top to Bottom"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:568
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:305
+msgid "Gradient - Bottom to Top"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:569
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:306
+msgid "Gradient - Right to Left"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:570
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:307
+msgid "Gradient - Left to Right"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:571
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:308
+msgid "Gradient - Radial"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:572
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:309
+msgid "Flash"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:573
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:310
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:127
+msgid "Circle"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:574
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:311
+msgid "Horizontal Elastic"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:575
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:312
+msgid "Vertical Elastic"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:577
+msgid "Choose image overlay style to display archives pages."
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:595
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:319
+msgid "Pagination Style"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:597
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:323
+msgid "Older & Newer"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:598
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:324
+msgid "Numbered"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:599
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:325
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:549
+#: ../modules/blog/templates/post-pagination/pagination-loadmore/post.php:18
+msgid "Load More"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:600
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:326
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../modules/blog/customizer/index.php:602
+msgid "Choose pagination style to display archives pages."
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:14
+msgid "Blog Posts"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:32
+#: ../modules/breadcrumb/customizer/settings/general.php:44
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:31
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:32
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:29
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:35
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:33
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:44
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:59
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:32
+msgid "General"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:37
+msgid "Query posts by"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:40
+msgid "From Category (for Posts only)"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:41
+msgid "By Specific IDs"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:55
+msgid "Select Specific Posts"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:65
+msgid "Post Counts"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:67
+msgid "Enter post count"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:106
+msgid "I Column"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:107
+msgid "II Columns"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:108
+msgid "III Columns"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:109
+msgid "IV Columns"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:140
+msgid "Enable Equal Height?"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:150
+msgid "Enable No Space?"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:160
+msgid "Display Gallery Slider?"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:171
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:202
+msgid "Element"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:191
+msgid "Elements & Positioning"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:227
+msgid "Enable Post Format?"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:236
+msgid "Display Video & Audio for Posts?"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:247
+msgid "Enable Excerpt Text?"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:288
+msgid ""
+"Note: Fade, Rotate & Scale Styles will not work for Gallery Sliders."
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:327
+msgid "Carousel"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:333
+msgid "Extra class name"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:334
+msgid ""
+"Style particular element differently - add a class name and refer "
+"to it in custom CSS"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:340
+msgid "Carousel Settings"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:344
+msgid "Effect"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:346
+msgid ""
+"Choose effect for your carousel. Slides Per View has to be 1 for "
+"Fade effect."
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:350
+msgid "Fade"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:355
+msgid "Slides Per View"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:357
+msgid "Number slides of to show in view port."
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:363
+msgid "Enable Loop Mode"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:365
+msgid ""
+"If you wish, you can enable continuous loop mode for your carousel."
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:366
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:376
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:386
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:396
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:418
+msgid "yes"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:367
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:377
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:387
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:397
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:419
+msgid "no"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:373
+msgid "Enable Mousewheel Control"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:375
+msgid ""
+"If you wish, you can enable mouse wheel control for your carousel."
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:383
+msgid "Enable Bullet Pagination"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:385
+msgid "To enable bullet pagination."
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:393
+msgid "Enable Arrow Pagination"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:395
+msgid "To enable arrow pagination."
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:403
+msgid "Arrow Type"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:405
+msgid "Choose arrow pagination type for your carousel."
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:408
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:44
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:82
+msgid "Type 2"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:415
+msgid "Enable Scrollbar"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:417
+msgid "To enable scrollbar for your carousel."
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:471
+msgid "No Posts Found"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:476
+msgid "No Posts Found in Category "
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:479
+msgid "No Posts Found in Criteria "
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:539
+#: ../modules/blog/templates/post-pagination/pagination-default/post.php:5
+msgid " Newer Posts"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:540
+#: ../modules/blog/templates/post-pagination/pagination-default/post.php:9
+msgid "Older Posts "
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:574
+msgid "Prev"
+msgstr ""
+
+#: ../modules/blog/elementor/widgets/blog-posts/class-widget-blog-posts.php:575
+msgid "Next"
+msgstr ""
+
+#: ../modules/blog/index.php:147 ../modules/blog/index.php:156
+#: ../modules/blog/templates/post-extra/title.php:7
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../modules/blog/templates/boxed/parts/author.php:5
+msgid "By"
+msgstr ""
+
+#: ../modules/blog/templates/boxed/parts/author.php:5
+#: ../modules/blog/templates/post-extra/author.php:7
+msgid "View all posts by "
+msgstr ""
+
+#: ../modules/blog/templates/post-extra/title.php:6
+msgid "Featured"
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/index.php:33
+msgid "Site Breadcrumb"
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/color.php:32
+msgid "Colors & Background"
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/general.php:64
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/general.php:65
+msgid "YES! to enable Breadcrumb."
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/general.php:89
+msgid "Breadcrumb Source?"
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/general.php:110
+msgid "Enable Dark Breadcrumb"
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/general.php:111
+msgid "YES! to enable dark Breadcrumb."
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/general.php:137
+msgid "Style?"
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/general.php:158
+msgid "Position?"
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/general.php:160
+msgid "Behind the Header"
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/general.php:181
+msgid "Change Breadcrumb Delimiter"
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/general.php:206
+msgid "Breadcrumb Delimiter"
+msgstr ""
+
+#: ../modules/breadcrumb/customizer/settings/typography.php:31
+msgid "Typograpy"
+msgstr ""
+
+#: ../modules/breadcrumb/layouts/breadcrumb-left/index.php:24
+msgid "Breadcrumb Left"
+msgstr ""
+
+#: ../modules/breadcrumb/layouts/breadcrumb-right/index.php:24
+msgid "Breadcrumb Right"
+msgstr ""
+
+#: ../modules/breadcrumb/layouts/breadcrumb-top-left-title-center/index.php:24
+msgid "Top Left Title Center"
+msgstr ""
+
+#: ../modules/breadcrumb/layouts/breadcrumb-top-right-title-center/index.php:24
+msgid "Top Right Title Center"
+msgstr ""
+
+#: ../modules/breadcrumb/templates/index.php:77
+msgid "Home"
+msgstr ""
+
+#: ../modules/breadcrumb/templates/rankmath-seo/index.php:39
+msgid "Rank Math SEO"
+msgstr ""
+
+#: ../modules/breadcrumb/templates/yoast-seo/index.php:38
+msgid "Yoast SEO"
+msgstr ""
+
+#: ../modules/demo-content/index.php:31
+msgid "Gardening Lite"
+msgstr ""
+
+#: ../modules/demo-content/index.php:36
+msgid "Krearc Lite"
+msgstr ""
+
+#: ../modules/demo-content/index.php:41
+msgid "Skin Care Lite"
+msgstr ""
+
+#: ../modules/demo-content/index.php:46
+msgid "Elsa Lite"
+msgstr ""
+
+#: ../modules/demo-content/index.php:51
+msgid "Fredie Lite"
+msgstr ""
+
+#: ../modules/demo-content/index.php:56
+msgid "Fason Lite"
+msgstr ""
+
+#: ../modules/demo-content/index.php:61
+msgid "Taxi Lite"
+msgstr ""
+
+#: ../modules/demo-content/index.php:66
+msgid "Symba Lite"
+msgstr ""
+
+#: ../modules/footer/customizer/index.php:30
+#: ../post-types/footer-post-type.php:30
+msgid "Footer"
+msgstr ""
+
+#: ../modules/footer/customizer/index.php:51
+msgid "Site Footer"
+msgstr ""
+
+#: ../modules/footer/layouts/custom-footer/index.php:26
+msgid "Custom Footer"
+msgstr ""
+
+#: ../modules/footer/layouts/custom-footer/index.php:45
+msgid "Footer Template"
+msgstr ""
+
+#: ../modules/footer/layouts/custom-footer/index.php:55
+msgid "Select Footer Template"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:35
+msgid "Standard Footer"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:79
+msgid "Footer Column"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:83
+msgid "Two Column"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:84
+msgid "Three Column"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:85
+msgid "Four Column"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:86
+msgid "Five Column"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:107
+#: ../modules/site-layout/layouts/boxed/index.php:97
+msgid "Background"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:127
+msgid "Title Typography"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:144
+#: ../modules/footer/layouts/standard-footer/index.php:184
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:108
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:462
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:491
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:132
+#: ../modules/typography/customizer/settings/body-typography.php:109
+#: ../modules/typography/customizer/settings/h1-typography.php:90
+#: ../modules/typography/customizer/settings/h2-typography.php:89
+#: ../modules/typography/customizer/settings/h3-typography.php:89
+#: ../modules/typography/customizer/settings/h4-typography.php:89
+#: ../modules/typography/customizer/settings/h5-typography.php:89
+#: ../modules/typography/customizer/settings/h6-typography.php:89
+msgid "Color"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:167
+msgid "Content Typography"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:203
+msgid "Anchor Color"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:222
+msgid "Anchor Hover Color"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:235
+#, php-format
+msgid "Footer Widget Area - Column %s"
+msgstr ""
+
+#: ../modules/footer/layouts/standard-footer/index.php:236
+#, php-format
+msgid "Widgets added here will appear in the %s column of footer area"
+msgstr ""
+
+#: ../modules/general/customizer/index.php:33
+msgid "Site General"
+msgstr ""
+
+#: ../modules/header/customizer/index.php:30
+#: ../post-types/header-post-type.php:30
+msgid "Header"
+msgstr ""
+
+#: ../modules/header/customizer/index.php:51
+msgid "Site Header"
+msgstr ""
+
+#: ../modules/header/layouts/custom-header/index.php:26
+msgid "Custom Header"
+msgstr ""
+
+#: ../modules/header/layouts/custom-header/index.php:45
+msgid "Header Template"
+msgstr ""
+
+#: ../modules/header/layouts/custom-header/index.php:55
+msgid "Select Header Template"
+msgstr ""
+
+#: ../modules/header/layouts/standard-header/index.php:25
+msgid "Standard Header"
+msgstr ""
+
+#: ../modules/hooks/customizer/index.php:35
+msgid "Site Hooks"
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/bottom-hook.php:42
+#: ../modules/hooks/customizer/settings/bottom-hook.php:88
+msgid "Bottom Hook"
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/bottom-hook.php:64
+msgid "Enable Bottom Hook"
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/bottom-hook.php:65
+msgid "YES! to enable bottom hook."
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/bottom-hook.php:90
+msgid ""
+"Paste your bottom hook, Executes after the closing &lt;/body&gt; "
+"tag."
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/content-after-hook.php:41
+#: ../modules/hooks/customizer/settings/content-after-hook.php:87
+msgid "Content After Hook"
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/content-after-hook.php:62
+msgid "Enable Content After Hook"
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/content-after-hook.php:63
+msgid "YES! to enable content after hook."
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/content-after-hook.php:89
+#, php-format
+msgid ""
+"Paste your content after hook, Executes after the closing %s tag."
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/content-before-hook.php:41
+#: ../modules/hooks/customizer/settings/content-before-hook.php:87
+msgid "Content Before Hook"
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/content-before-hook.php:62
+msgid "Enable Content Before Hook"
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/content-before-hook.php:63
+msgid "YES! to enable content before hook."
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/content-before-hook.php:89
+#, php-format
+msgid ""
+"Paste your content after hook, Executes before the opening %s tag."
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/top-hook.php:42
+#: ../modules/hooks/customizer/settings/top-hook.php:88
+msgid "Top Hook"
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/top-hook.php:64
+msgid "Enable Top Hook"
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/top-hook.php:65
+msgid "YES! to enable top hook."
+msgstr ""
+
+#: ../modules/hooks/customizer/settings/top-hook.php:90
+msgid ""
+"Paste your top hook, Executes after the opening &lt;body&gt; tag."
+msgstr ""
+
+#: ../modules/identity/customizer/index.php:33
+msgid "Site Identity"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:13
+msgid "Header Icons"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:35
+msgid "Show Search Icon"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:42
+msgid "Search Icon"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:51
+msgid "Search Type"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:53
+msgid "Choose type of search form to use."
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:57
+msgid "Expand"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:58
+msgid "Overlay"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:64
+msgid "Show Login / Logout Icon"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:71
+msgid "User Icon"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:80
+msgid "Show Cart Icon"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:87
+msgid "Cart Icon"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:96
+msgid "Cart Action"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:98
+msgid "Choose how you want to display the cart content."
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:102
+msgid "Notification Widget"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:103
+msgid "Sidebar Widget"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:109
+msgid "Show Wishlist Icon"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:116
+msgid "Wishlist Icon"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:125
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:52
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:179
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:42
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:428
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:114
+msgid "Alignment"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:139
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:86
+msgid "Colors"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:145
+msgid "Icons Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:152
+msgid "Icons Hover Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:239
+msgid "Log Out"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:253
+msgid "Log In"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:291
+msgid "No products added!"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-icons/class-widget-header-icons.php:333
+msgid "Wishlist"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:15
+msgid "Header Menu"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:24
+msgid "Select Menu"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:36
+msgid "Navigation Type"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:39
+msgid "Primary Nav"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:40
+msgid "Secondary Nav"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:46
+msgid "Choose Menu"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:64
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:181
+msgid "Menu"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:70
+msgid "Menu Typography"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:77
+msgid "Sub Menu Typography"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:92
+msgid "Menu Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:99
+msgid "Menu Hover Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:120
+msgid "Sub Menu Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/header-menu/class-widget-header-menu.php:127
+msgid "Sub Menu Hover Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:15
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:37
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:46
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:49
+msgid "Logo"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:34
+msgid "Logo Type"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:38
+msgid "Custom Image"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:40
+msgid "Title and Description"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:50
+msgid "Light Logo"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:57
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:59
+msgid "Image"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:63
+msgid "Image Width (px)"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:81
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:275
+#: ../modules/site-title/customizer/index.php:30
+msgid "Site Title"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:88
+#: ../modules/site-tagline/customizer/index.php:30
+msgid "Site Tagline"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:95
+msgid "Alignment?"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:114
+msgid "Site Title Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:120
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:161
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:193
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:234
+msgid "Item Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:123
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:137
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:151
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:196
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:210
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:224
+msgid "Theme Primary"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:124
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:138
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:152
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:197
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:211
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:225
+msgid "Theme Secondary"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:125
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:139
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:153
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:198
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:212
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:226
+msgid "Theme Tertiary"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:126
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:140
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:154
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:199
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:213
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:227
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:186
+msgid "Custom Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:134
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:169
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:207
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:242
+msgid "BG Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:148
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:177
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:221
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:250
+#: ../modules/typography/customizer/settings/body-typography.php:185
+msgid "Border Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:186
+msgid "Site Description Color"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:260
+msgid "Typography"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:266
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:283
+msgid "Use theme default font family?"
+msgstr ""
+
+#: ../modules/menu/elementor/widgets/logo/class-widget-logo.php:292
+msgid "Site Description"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:127
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:131
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:145
+msgid "sub item"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:162
+msgid "Move up"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:179
+msgid "Move down"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:199
+msgid "Edit menu item"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:200
+msgid "Edit"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:211
+msgid "URL"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:218
+msgid "Navigation Label"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:224
+msgid "Title Attribute"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:231
+msgid "Open link in a new tab"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:236
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:242
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:248
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:146
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:169
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:485
+msgid "Description"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:250
+msgid ""
+"The description will be displayed in the menu if the current theme "
+"supports it."
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:258
+msgid "Custom Label"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:266
+msgid "Custom Label Type"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:268
+msgid "BG Red Text White "
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:269
+msgid "BG Green Text White"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:270
+msgid "BG Blue Text White"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:271
+msgid "BG White Text Black"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:272
+msgid "BG Black Text White"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:280
+msgid "Menu Icon"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:288
+msgid "Menu Image"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:290
+msgid "Please use image url"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:297
+msgid "Menu Icon / Image Position"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:300
+msgid "Top - Left"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:302
+msgid "Top - Right"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:303
+msgid "Top - Center"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:305
+msgid "Please select image position"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:312
+msgid "Child Menu Animation"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:315
+msgid "bigEntrance"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:316
+msgid "bounce"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:317
+msgid "bounceIn"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:318
+msgid "bounceInDown"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:319
+msgid "bounceInLeft"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:320
+msgid "bounceInRight"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:321
+msgid "bounceInUp"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:322
+msgid "bounceOut"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:323
+msgid "bounceOutDown"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:324
+msgid "bounceOutLeft"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:325
+msgid "bounceOutRight"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:326
+msgid "bounceOutUp"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:327
+msgid "expandOpen"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:328
+msgid "expandUp"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:329
+msgid "fadeIn"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:330
+msgid "fadeInDown"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:331
+msgid "fadeInDownBig"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:332
+msgid "fadeInLeft"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:333
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:334
+msgid "fadeInRight"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:335
+msgid "fadeInRightBig"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:336
+msgid "fadeInUp"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:337
+msgid "fadeInUpBig"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:338
+msgid "fadeOut"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:339
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:340
+msgid "fadeOutLeft"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:341
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:342
+msgid "fadeOutRight"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:343
+msgid "fadeOutUp"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:344
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:345
+msgid "flash"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:346
+msgid "flip"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:347
+msgid "flipInX"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:348
+msgid "flipInY"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:349
+msgid "flipOutX"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:350
+msgid "flipOutY"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:351
+msgid "floating"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:352
+msgid "hatch"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:353
+msgid "hinge"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:354
+msgid "lightSpeedIn"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:355
+msgid "lightSpeedOut"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:356
+msgid "pullDown"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:357
+msgid "pullUp"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:358
+msgid "pulse"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:359
+msgid "rollIn"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:360
+msgid "rollOut"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:361
+msgid "rotateIn"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:362
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:363
+msgid "rotateInDownRight"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:364
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:365
+msgid "rotateInUpRight"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:366
+msgid "rotateOut"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:367
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:368
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:369
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:370
+msgid "shake"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:371
+msgid "slideDown"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:372
+msgid "slideExpandUp"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:373
+msgid "slideLeft"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:374
+msgid "slideRight"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:375
+msgid "slideUp"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:376
+msgid "stretchLeft"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:377
+msgid "stretchRight"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:378
+msgid "swing"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:379
+msgid "tada"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:380
+msgid "tossing"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:381
+msgid "wobble"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:382
+msgid "fadeOutDown"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:383
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:384
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:391
+msgid "Please select child menu animation."
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:400
+msgid "Move"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:401
+msgid "Up one"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:402
+msgid "Down one"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:405
+msgid "To the top"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:413
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../modules/menu/walker/backend-menu-walker.php:450
+msgid "Cancel"
+msgstr ""
+
+#: ../modules/post/customizer/index.php:30
+msgid "Single Post"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:68
+#: ../modules/shortcodes/elementor/index.php:88
+#, php-format
+msgid "\"%1$s\" recommends \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:69
+#: ../modules/shortcodes/elementor/index.php:89
+msgid "Multifox Plus Plugin"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:70
+msgid "Elementor"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:90
+msgid "PHP"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:100
+#: ../modules/shortcodes/elementor/index.php:108
+msgid "Multifox"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:112
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:16
+msgid "Google Map"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:116
+msgid "Instagram"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:118
+#, php-format
+msgid "You can create your instagram application settings %1$s"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:118
+msgid "here."
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:123
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:12
+msgid "Mailchimp"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:132
+#: ../modules/shortcodes/elementor/index.php:164
+msgid "API Key"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:136
+#, php-format
+msgid ""
+"Please set Google maps API key before using Google Map widget. You "
+"can create own API key %1$s."
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:137
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:66
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:76
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:127
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:137
+msgid "here"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:143
+msgid "Instagram App ID"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:150
+msgid "Instagram App Secret"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:157
+msgid "Instagram App Access Token"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/index.php:167
+msgid "Please set Mailchimp API key before using Mailchimp widget."
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:18
+msgid "Advanced Carousel"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:39
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:36
+msgid "Content Type"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:44
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:41
+msgid "Template"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:50
+msgid "Graphic Element"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:63
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:97
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:88
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:68
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:165
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:52
+msgid "Icon"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:74
+msgid "Choose Image"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:108
+msgid "View"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:112
+msgid "Stacked"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:113
+msgid "Framed"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:124
+msgid "Shape"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:128
+msgid "Square"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:141
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:142
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:388
+msgid "Item Title"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:149
+msgid "Item Description"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:154
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:36
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:73
+msgid "Link"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:157
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:38
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:76
+msgid "https://your-link.com"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:161
+msgid "Item Button Text"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:167
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:68
+msgid "Select Template"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:174
+msgid "Carousel Items"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:175
+msgid ""
+"Carousel items is a template which you can choose from Elementor "
+"library. Each template will be a carousel content"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:191
+msgid "Carousel Options"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:194
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:204
+msgid "Slider Type"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:199
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:86
+msgid "Horizontal"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:200
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:87
+msgid "Vertical"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:209
+msgid "All visible"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:210
+msgid "One at a Time"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:214
+msgid "Items To Show"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:228
+msgid "Infinite loop"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:235
+msgid "Transition speed"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:241
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:258
+msgid "Speed at which next slide comes.(ms)"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:244
+msgid "Autoplay Slides?"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:251
+msgid "Autoplay speed"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:261
+msgid "Draggable Effect?"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:266
+msgid "Allow slides to be draggable"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:269
+msgid "Touch Move Effect?"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:274
+msgid "Enable slide moving with touch"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:278
+msgid "Adaptive Height"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:283
+msgid "Turn on Adaptive Height"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:286
+msgid "Pause on hover"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:292
+msgid "Pause the slider on hover"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:297
+msgid "Arrow"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:301
+msgid "Navigation Arrows"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:306
+msgid "Display next / previous navigation arrows"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:309
+msgid "Arrow Style"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:316
+msgid "Circle Background"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:317
+msgid "Square Background"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:318
+msgid "Circle Border"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:319
+msgid "Square Border"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:323
+msgid "Prev Arrow"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:339
+msgid "Next Arrow"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:357
+msgid "Navigation"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:361
+msgid "Dot Navigation"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:366
+msgid "Display dot navigation"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:369
+msgid "Dot Style"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:375
+msgid "Style 1"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:376
+msgid "Style 2"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:377
+msgid "Style 3"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:378
+msgid "Style 4"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:379
+msgid "Style 5"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:380
+msgid "Style 6"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:381
+msgid "Style 7"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:382
+msgid "Style 8"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/advanced-carousel/class-widget-advanced-carousel.php:402
+msgid "Item Content"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:14
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:27
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:151
+msgid "Button"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:30
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:65
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:127
+msgid "Text"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:32
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:33
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:316
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:336
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:342
+msgid "Click here"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:48
+msgid "Justified"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:54
+msgid "Size"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:58
+msgid "Extra Small"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:59
+msgid "Small"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:60
+msgid "Medium"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:61
+msgid "Large"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:62
+msgid "Extra Large"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:67
+msgid "Style"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:72
+msgid "Bordered"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:77
+msgid "Corner Style"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:82
+msgid "Curve"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:83
+msgid "Rounded"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:94
+msgid "Icon Position"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:98
+msgid "Before"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:99
+msgid "After"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/button/class-widget-button.php:106
+msgid "Icon Spacing"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:15
+msgid "Counter"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:39
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:76
+msgid "Type"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:60
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:135
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:98
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:100
+msgid "Sub Title"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:80
+msgid "Number Prefix"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:88
+msgid "Number Suffix"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:96
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:194
+msgid "Number"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:114
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:143
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:173
+#: ../modules/shortcodes/elementor/widgets/counter/class-widget-counter.php:202
+msgid "Text Color"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:53
+#, php-format
+msgid ""
+"To display customized Google Map without an issue, you need to "
+"configure Google Map API key. Please configure API key from <a "
+"href=\"%s\" target=\"_blank\" rel=\"noopener\">here</a>."
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:61
+msgid "Center Latitude"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:65
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:75
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:126
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:136
+#, php-format
+msgid "Click %1$s to get your location coordinates"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:71
+msgid "Center Longitude"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:81
+msgid "Zoom Level"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:88
+msgid "Map Type"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:92
+msgid "Road Map"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:93
+msgid "Satellite"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:94
+msgid "Hybrid"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:95
+msgid "Terrain"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:100
+msgid "Marker Animation"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:105
+msgid "Drop"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:106
+msgid "Bounce"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:116
+msgid "Markers"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:122
+msgid "Latitude"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:132
+msgid "Longitude"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:145
+msgid "Marker Title"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:149
+msgid "Show Info Window"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:158
+msgid "Show info Window On"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:163
+msgid "Mouse Click"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:164
+msgid "Page Load"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:176
+msgid "Marker Icon"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:181
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:299
+msgid "Custom"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:192
+msgid "Icon Size"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:211
+msgid "Controls"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:215
+msgid "Street View Controls"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:224
+msgid "Map Type Controls"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:233
+msgid "Zoom Control"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:242
+msgid "Full Screen Control"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:251
+msgid "Scale Control"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:260
+msgid "Rotate Control"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:269
+msgid "Scroll Wheel Zoom Control"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:278
+msgid "Is Map Draggable ?"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:290
+msgid "Theme"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:294
+msgid "Theme Source"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:297
+msgid "Google Standard"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:298
+msgid "Snazzy Maps"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:305
+msgid "Google Themes"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:309
+msgid "Standard"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:310
+msgid "Silver"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:311
+msgid "Retro"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:312
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:329
+msgid "Dark"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:313
+msgid "Night"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:314
+msgid "Aubergine"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:316
+msgid ""
+"to generate your own theme and use JSON within Custom style field."
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:321
+msgid "SnazzyMaps Themes"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:326
+msgid "Simple"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:327
+msgid "Colorful"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:328
+msgid "Complex"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:330
+msgid "Greyscale"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:331
+msgid "Light"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:332
+msgid "Monochrome"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:333
+msgid "No Labels"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:334
+msgid "Two Tone"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:336
+msgid "to explore more themes and use JSON within custom style field."
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:341
+msgid "Custom Style"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:342
+msgid "to get JSON style code to style your map"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:355
+msgid "Map"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:365
+msgid "Border Radius"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:379
+msgid "Max Width"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:389
+msgid "Max Height"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:400
+msgid "Margin"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:409
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:447
+msgid "Padding"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:423
+msgid "Info Window"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:440
+msgid "Info Window Max Width"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/google-map/class-widget-google-map.php:470
+msgid "Bottom Spacing"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:68
+#, php-format
+msgid ""
+"To display customized Mailchimp widget without an issue, you need "
+"to configure API key. Please configure API key from <a href=\"%s\" "
+"target=\"_blank\" rel=\"noopener\">here</a>."
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:81
+msgid "Type 1"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:83
+msgid "Type 3"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:84
+msgid "Type 4"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:85
+msgid "Type 5"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:86
+msgid "Type 6"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:87
+msgid "Type 7"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:105
+msgid "Tooltip"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:107
+msgid "Tool tip"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:121
+msgid "Label"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:125
+msgid "Show Name Field"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:135
+msgid "Name"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:137
+msgid "Your Name"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:145
+msgid "Email"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:147
+msgid "Your Email"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/class-widget-mailchimp.php:153
+msgid "Subscribe Now"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/index.php:67
+#: ../modules/shortcodes/elementor/widgets/mailchimp/index.php:72
+msgid "Error:"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/index.php:67
+msgid "You have already subscribed with us !"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/index.php:72
+msgid "Please make sure valid mailchimp details are provided."
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/index.php:125
+msgid "Success! Please check your inbox or spam folder."
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/mailchimp/index.php:127
+msgid "Something went wrong!"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:15
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:29
+msgid "Ordered List"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:33
+msgid "Layout"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:43
+msgid "Inline"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:48
+msgid "Ordered Style"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:53
+msgid "Decimal"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:54
+msgid "Decimal With Leading Zero"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:55
+msgid "Lower Alpha"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:56
+msgid "Lower Roman"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:57
+msgid "Upper Alpha"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:58
+msgid "Upper Roman"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:68
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:69
+msgid "List Item"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:84
+msgid "List Item #1"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:85
+msgid "List Item #2"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:86
+msgid "List Item #3"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:87
+msgid "List Item #4"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:88
+msgid "List Item #5"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:100
+msgid "Space Between"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/ordered-list/class-widget-ordered-list.php:139
+msgid "Hover Color"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:15
+msgid "Tabs"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:48
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:49
+msgid "Tab Title"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:63
+msgid "Tab Content"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:76
+msgid "Tab Contents"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:77
+msgid ""
+"Tab contents is a template which you can choose from Elementor "
+"library. Each template will be a carousel content"
+msgstr ""
+
+#: ../modules/shortcodes/elementor/widgets/tabs/class-widget-tabs.php:81
+msgid "Tab Style"
+msgstr ""
+
+#: ../modules/sidebar/customizer/index.php:35
+msgid "Site Sidebar"
+msgstr ""
+
+#: ../modules/sidebar/customizer/index.php:49
+msgid "Settings"
+msgstr ""
+
+#: ../modules/sidebar/customizer/index.php:64
+msgid "Widget Areas"
+msgstr ""
+
+#: ../modules/sidebar/customizer/index.php:66
+msgid ""
+"Widgets are independent sections of content that can be placed into "
+"widgetized areas provided by your theme (commonly lled sidebars)."
+msgstr ""
+
+#: ../modules/sidebar/customizer/settings/content.php:33
+msgid "Widget Content"
+msgstr ""
+
+#: ../modules/sidebar/customizer/settings/global.php:41
+msgid "Global Sidebar"
+msgstr ""
+
+#: ../modules/sidebar/customizer/settings/global.php:60
+msgid "Global Sidebar Layout"
+msgstr ""
+
+#: ../modules/sidebar/customizer/settings/global.php:64
+msgid "Without Sidebar"
+msgstr ""
+
+#: ../modules/sidebar/customizer/settings/global.php:68
+msgid "With Left Sidebar"
+msgstr ""
+
+#: ../modules/sidebar/customizer/settings/global.php:72
+msgid "With Right Sidebar"
+msgstr ""
+
+#: ../modules/sidebar/customizer/settings/global.php:93
+msgid "Hide Standard Sidebar"
+msgstr ""
+
+#: ../modules/sidebar/customizer/settings/title.php:33
+msgid "Widget Title"
+msgstr ""
+
+#: ../modules/site-icon/customizer/index.php:30
+msgid "Site Icon"
+msgstr ""
+
+#: ../modules/site-layout/customizer/index.php:35
+#: ../modules/site-layout/customizer/index.php:56
+msgid "Site Layout"
+msgstr ""
+
+#: ../modules/site-layout/layouts/boxed/index.php:72
+msgid "Customize Boxed Layout?"
+msgstr ""
+
+#: ../modules/site-layout/layouts/boxed/index.php:73
+msgid "YES! to customize boxed layout."
+msgstr ""
+
+#: ../modules/site-layout/layouts/wide/index.php:25
+msgid "Wide"
+msgstr ""
+
+#: ../modules/site-loader/customizer/index.php:40
+msgid "Loader"
+msgstr ""
+
+#: ../modules/site-loader/customizer/index.php:61
+msgid "Enable Loader"
+msgstr ""
+
+#: ../modules/site-loader/customizer/index.php:84
+msgid "Select Loader"
+msgstr ""
+
+#: ../modules/site-loader/customizer/index.php:102
+msgid "Upload Loader Image"
+msgstr ""
+
+#: ../modules/site-loader/layouts/loader-1/index.php:38
+msgid "Loader 1"
+msgstr ""
+
+#: ../modules/site-loader/layouts/loader-2/index.php:40
+msgid "Loader 2"
+msgstr ""
+
+#: ../modules/site-loader/layouts/loader-3/index.php:40
+msgid "Loader 3"
+msgstr ""
+
+#: ../modules/site-loader/layouts/transition-1/index.php:37
+msgid "Transition 1"
+msgstr ""
+
+#: ../modules/site-logo/customizer/index.php:30
+msgid "Site Logo"
+msgstr ""
+
+#: ../modules/site-logo/customizer/index.php:56
+msgid "Alternate Logo"
+msgstr ""
+
+#: ../modules/site-logo/customizer/index.php:63
+#: ../modules/site-logo/customizer/index.php:67
+msgid "Select logo"
+msgstr ""
+
+#: ../modules/site-logo/customizer/index.php:64
+msgid "Change logo"
+msgstr ""
+
+#: ../modules/site-logo/customizer/index.php:66
+msgid "No logo selected"
+msgstr ""
+
+#: ../modules/site-logo/customizer/index.php:68
+msgid "Choose logo"
+msgstr ""
+
+#: ../modules/site-to-top/customizer/index.php:37
+msgid "To Top"
+msgstr ""
+
+#: ../modules/site-to-top/customizer/index.php:58
+msgid "Enable To Top"
+msgstr ""
+
+#: ../modules/skin/customizer/index.php:34
+msgid "Site Skin"
+msgstr ""
+
+#: ../modules/skin/customizer/settings/background-color.php:48
+msgid "Main Background Color"
+msgstr ""
+
+#: ../modules/skin/customizer/settings/primary-color.php:48
+msgid "Primary Color"
+msgstr ""
+
+#: ../modules/skin/customizer/settings/secondary-color.php:48
+msgid "Secondary Color"
+msgstr ""
+
+#: ../modules/skin/customizer/settings/tertiary-color.php:48
+msgid "Tertiary Color"
+msgstr ""
+
+#: ../modules/typography/customizer/index.php:34
+msgid "Site Typography"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/body-typography.php:70
+msgid "Body Content Typograpy"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/body-typography.php:91
+msgid "Body"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/body-typography.php:128
+msgid "Heading Color"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/body-typography.php:147
+msgid "Link Color"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/body-typography.php:166
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/body-typography.php:204
+msgid "Accent Text Color"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h1-typography.php:51
+msgid "H1 Typograpy"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h1-typography.php:72
+msgid "H1 Tag"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h2-typography.php:50
+msgid "H2 Typograpy"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h2-typography.php:71
+msgid "H2 Tag"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h3-typography.php:50
+msgid "H3 Typograpy"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h3-typography.php:71
+msgid "H3 Tag"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h4-typography.php:50
+msgid "H4 Typograpy"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h4-typography.php:71
+msgid "H4 Tag"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h5-typography.php:50
+msgid "H5 Typograpy"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h5-typography.php:71
+msgid "H5 Tag"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h6-typography.php:50
+msgid "H6 Typograpy"
+msgstr ""
+
+#: ../modules/typography/customizer/settings/h6-typography.php:71
+msgid "H6 Tag"
+msgstr ""
+
+#: ../multifox-plus.php:91
+msgid "Go Pro!"
+msgstr ""
+
+#: ../multifox-plus.php:92
+msgid "Get Multifox Pro plugin to avail additional features!"
+msgstr ""
+
+#: ../multifox-plus.php:92
+msgid "View Details"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:29
+#: ../post-types/footer-post-type.php:31
+msgid "Footers"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:32
+msgid "Add Footer"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:33
+msgid "Add New Footer"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:34
+#: ../post-types/footer-post-type.php:35
+msgid "Edit Footer"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:36
+msgid "New Footer"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:37
+#: ../post-types/footer-post-type.php:38
+msgid "View Footer"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:39
+msgid "Search Footers"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:40
+msgid "No Footers found"
+msgstr ""
+
+#: ../post-types/footer-post-type.php:41
+msgid "No Footers found in Trash"
+msgstr ""
+
+#: ../post-types/header-post-type.php:29
+#: ../post-types/header-post-type.php:31
+msgid "Headers"
+msgstr ""
+
+#: ../post-types/header-post-type.php:32
+msgid "Add Header"
+msgstr ""
+
+#: ../post-types/header-post-type.php:33
+msgid "Add New Header"
+msgstr ""
+
+#: ../post-types/header-post-type.php:34
+#: ../post-types/header-post-type.php:35
+msgid "Edit Header"
+msgstr ""
+
+#: ../post-types/header-post-type.php:36
+msgid "New Header"
+msgstr ""
+
+#: ../post-types/header-post-type.php:37
+#: ../post-types/header-post-type.php:38
+msgid "View Header"
+msgstr ""
+
+#: ../post-types/header-post-type.php:39
+msgid "Search Headers"
+msgstr ""
+
+#: ../post-types/header-post-type.php:40
+msgid "No Headers found"
+msgstr ""
+
+#: ../post-types/header-post-type.php:41
+msgid "No Headers found in Trash"
+msgstr ""

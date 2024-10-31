@@ -1,0 +1,47 @@
+.customize-control-mfx-spacing .customize-control-title { width: 100%; }
+.customize-control-mfx-spacing .customize-control-title { display: inline-block; vertical-align: middle; }
+.customize-control-mfx-spacing .customize-control-title .item-reset { float: right; font-size: 15px; position: relative; top: 5px; }
+.customize-control-mfx-spacing .item-reset:hover, .customize-control-mfx-spacing .item-reset:focus { color: red; }
+.customize-control-mfx-spacing .control-wrap { display: block; }
+
+.customize-control-mfx-spacing .control-wrap label { pointer-events: none; }
+.customize-control-mfx-spacing .mfx-spacing-link span { clear: both; }
+.customize-control-mfx-spacing .mfx-spacing-link span.mfx-spacing-connected { display:none; }
+.customize-control-mfx-spacing .mfx-spacing-link.disconnected span.mfx-spacing-connected { display:block; }
+.customize-control-mfx-spacing .mfx-spacing-link.disconnected span.mfx-spacing-disconnected { display:none; }
+
+.customize-control-mfx-spacing .control-wrap ul { display: -webkit-flex; display: -moz-flex; display: -ms-flexbox; display: -ms-flex; display: flex; -webkit-box-align: end; -webkit-align-items: flex-end; -ms-flex-align: end; align-items: flex-end; -webkit-box-pack: space-evenly; -webkit-justify-content: space-evenly; -ms-flex-pack: space-evenly; justify-content: space-evenly }
+
+.customize-control-mfx-spacing .control-wrap ul li.mfx-spacing-link { width: 45px !important; }
+.customize-control-mfx-spacing .control-wrap ul li.mfx-spacing-link span { border: 1px solid rgba(0,0,0,0.15); font-size: 14px; height: 28px; line-height: 28px; width: 100%; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+.customize-control-mfx-spacing .control-wrap ul li select { padding-bottom: 0; padding-top: 0; width: 100%; }
+
+.customize-control-mfx-spacing .control-wrap ul li:first-child:nth-last-child(1) {
+  width: 100%;
+}
+
+.customize-control-mfx-spacing .control-wrap ul li:first-child:nth-last-child(2),
+.customize-control-mfx-spacing .control-wrap ul li:first-child:nth-last-child(2) ~ li {
+  width: 50%;
+}
+
+.customize-control-mfx-spacing .control-wrap ul li:first-child:nth-last-child(3),
+.customize-control-mfx-spacing .control-wrap ul li:first-child:nth-last-child(3) ~ li {
+  width: 33.3333%;
+}
+
+.customize-control-mfx-spacing .control-wrap ul li:first-child:nth-last-child(4),
+.customize-control-mfx-spacing .control-wrap ul li:first-child:nth-last-child(4) ~ li {
+  width: 25%;
+}
+
+.customize-control-mfx-spacing .control-wrap ul li:first-child:nth-last-child(5),
+.customize-control-mfx-spacing .control-wrap ul li:first-child:nth-last-child(5) ~ li {
+  width: 20%;
+}
+
+.customize-control-mfx-spacing .control-wrap ul li:first-child:nth-last-child(6),
+.customize-control-mfx-spacing .control-wrap ul li:first-child:nth-last-child(6) ~ li {
+  width: 16.67%;
+}

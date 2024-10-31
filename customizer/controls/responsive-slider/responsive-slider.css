@@ -1,0 +1,24 @@
+.customize-control-mfx-responsive-slider .customize-control-title { width: 100%; }
+.customize-control-mfx-responsive-slider .customize-control-title,
+.customize-control-mfx-responsive-slider .mfx-responsive-slider-switcher { display: inline-block; vertical-align: middle; }
+.customize-control-mfx-responsive-slider .control-wrap:not(.active) { display: none; }
+.customize-control-mfx-responsive-slider .customize-control-title .slider-reset { float: right; font-size: 15px; position: relative; top: 5px; }
+
+
+.customize-control .mfx-responsive-slider-switcher { margin-left:5px; position: relative; top: -1px; width:auto; }
+.customize-control.mfx-responsive-slider-switcher-open .mfx-responsive-slider-switcher li { display:block; }
+.customize-control .mfx-responsive-slider-switcher li { float:left; margin:0; }
+.customize-control .mfx-responsive-slider-switcher li button { float: left; height:20px; width:20px; background-color:#a4afb7; position:relative; margin-left:5px; margin-bottom: auto; margin-top: auto; color:#fff; font-size:10px; text-align:center; border-radius:50%; border:0; outline:0; -webkit-transition:background-color .5s; transition:background-color .5s; cursor:pointer; padding:0; }
+.customize-control .mfx-responsive-slider-switcher li button:hover { background-color:#c2cbd2; }
+.customize-control .mfx-responsive-slider-switcher li button.active { background-color:#13aff0; }
+.customize-control .mfx-responsive-slider-switcher li button i { width:auto; height:auto; font-size:inherit; line-height:18px; }
+.customize-control-mfx-responsive-slider input[type=range] { -webkit-appearance: none; -webkit-transition: background 0.3s; -moz-transition: background 0.3s; transition: background 0.3s; background-color: rgba(0, 0, 0, 0.1); height: 5px; padding: 0; }
+
+.customize-control-mfx-responsive-slider .control-wrap { display: table; text-align: justify; width: 100%; }
+.customize-control-mfx-responsive-slider .control-wrap:after { content: ""; display: inline-block; width: 100%; }
+.customize-control-mfx-responsive-slider .input-field-range, .customize-control-mfx-responsive-slider .mfx-slider-range-value { display: table-cell; vertical-align: middle; }
+.customize-control-mfx-responsive-slider input[type=range] { width: 100%; }
+.customize-control-mfx-responsive-slider .mfx-slider-range-value { text-align: right; }
+
+
+.customize-control-mfx-responsive-slider .slider-reset:hover, .customize-control-mfx-responsive-slider .slider-reset:focus { color: red; }

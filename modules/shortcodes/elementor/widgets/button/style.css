@@ -1,0 +1,14 @@
+*[class*="elementor-size-"].elementor-button.mfx-elementor-button { border-radius: 0; }
+
+.elementor-button.mfx-elementor-button.elementor-size-xs .elementor-align-icon-left + .mfx-elementor-button-text { margin-left: 4px; }
+
+.elementor-button.mfx-elementor-button.mfx-bordered { background: none; border: 2px solid; }
+.elementor-button.mfx-elementor-button.mfx-curve-cornered { border-radius: 5px; }
+.elementor-button.mfx-elementor-button.mfx-round-cornered { border-radius: 30px; }
+
+.elementor-button.mfx-elementor-button.elementor-size-xl.mfx-round-cornered { border-radius: 50px; }
+
+.elementor-align-justify .mfx-elementor-button .elementor-align-icon-right + .mfx-elementor-button-text { text-align: left; }
+.elementor-align-justify .mfx-elementor-button .elementor-align-icon-left + .mfx-elementor-button-text { text-align: right; }
+
+.elementor-button.mfx-elementor-button.mfx-bordered:hover { color: var(--mfxAccentTxtColor); }

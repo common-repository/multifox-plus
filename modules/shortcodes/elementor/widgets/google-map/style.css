@@ -1,0 +1,14 @@
+
+/*--------------------------------------------------------------
+Base Styles
+--------------------------------------------------------------*/
+
+.mfx-google-map-wrapper button, .mfx-google-map-wrapper *[role="button"] { background: none; padding: 0; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+
+.mfx-google-map-wrapper .gm-style .gm-style-mtc ul, .mfx-google-map-wrapper .gm-style .gm-style-mtc ul li { white-space: normal !important; }
+
+.mfx-google-map-wrapper div[role="dialog"] { padding: 25px !important; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+.mfx-google-map-wrapper button[aria-label="Close"] { margin: 5px !important; }
+.mfx-google-map-wrapper .map-info-content-container .map-info-content-title { color: var(--mfxHeadAltColor); font-family: var(--mfxFontTypo_Alt); font-size: var(--mfxFontSize_H6); font-weight: var(--mfxFontWeight_Alt); line-height: var(--mfxLineHeight_Alt); margin-bottom: 15px; }
+
+.mfx-google-map-wrapper .map-info-content-container > *:last-child, .mfx-google-map-wrapper .map-info-content-container .map-info-content-desc > *:last-child { margin-bottom: 0; }

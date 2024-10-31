@@ -1,0 +1,13 @@
+.customize-control-mfx-description .mfx-description {
+  font-style: italic;
+}
+
+.customize-control-mfx-description a.button {
+  margin-top: 5px;
+  font-style: normal;
+}
+
+.customize-control-mfx-description p {
+  margin: 0;
+  cursor: initial;
+}

@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mfx-counter-wrapper.type1 .mfx-couter-icon-holder *, .mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-number:before,
+.mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-number:after, .mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper,
+.mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper > *, .mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper > *:before,
+.mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper:after {
+    -webkit-transition: var(--mfxBaseTransition);
+    transition: var(--mfxBaseTransition);
+}
+
+
+.mfx-counter-wrapper { display: block; float: left; width: 100%; }
+.mfx-counter-wrapper .mfx-counter-number * { display: inline-block; vertical-align: middle; }
+.mfx-counter-wrapper .mfx-counter-number *:not(.mfx-number) { font-size: 0.5em; }
+.mfx-counter-wrapper .mfx-counter-number .mfx-number { padding: 0 5px; }
+.mfx-counter-wrapper .mfx-counter-inner .mfx-counter-title { font-size: var(--mfxFontSize_H5); margin: 0; }
+.mfx-counter-wrapper .mfx-counter-inner .mfx-counter-content-wrapper > *:not(:last-child) { margin-bottom: 10px; }
+.mfx-counter-wrapper .mfx-counter-inner .mfx-counter-subtitle { font-weight: normal; }
+
+.elementor-widget-mfx-counter .mfx-counter-wrapper .mfx-couter-icon-holder, .elementor-widget-mfx-counter .mfx-counter-number,
+.mfx-counter-wrapper .mfx-counter-inner .mfx-counter-title, .elementor-widget-mfx-counter .mfx-counter-icon-wrapper span { color: var(--mfxHeadAltColor); }
+
+/* Type 1 */
+.mfx-counter-wrapper.type1 { text-align: center; }
+
+.mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-title { font-size: var(--mfxFontSize_H6); font-weight: var(--mfxFontWeight_Alt); text-transform: capitalize; }
+
+.mfx-counter-wrapper.type1 .mfx-couter-icon-holder,
+.mfx-counter-wrapper.type1 .mfx-counter-icon-wrapper { margin-bottom: 15px; position: relative; }
+
+.mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-icon-wrapper { clear: both; font-size: 36px; line-height: 1; position: relative; padding-bottom: 0; width: 100%; }
+
+.mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-icon-wrapper img { max-width: 42px; }
+.mfx-counter-wrapper.type1:hover .mfx-counter-inner .mfx-counter-icon-wrapper span { color: var(--mfxPrimaryColor); }
+
+.mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-number { font-size: var(--mfxFontSize_H2); line-height: 1; padding: 0 0 15px; position: relative; }
+.mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-number:before, .mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-number:after { position: absolute; content: ""; display: block; height: 3px; margin: auto; bottom: 0; left: 0; right: 0; }
+
+.mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-number:before { background-color: currentColor; opacity: 0.75; }
+.mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-number:after { background-color: var(--mfxPrimaryColor); opacity: 1; }
+
+.mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-number:before,
+.mfx-counter-wrapper.type1:hover .mfx-counter-inner .mfx-counter-number:after { width: 50px; }
+
+.mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-number:after,
+.mfx-counter-wrapper.type1:hover .mfx-counter-inner .mfx-counter-number:before { width: 0; }
+
+
+
+/* Type2 */
+.mfx-counter-wrapper.type2 { display: table; }
+.mfx-counter-wrapper.type2 .mfx-counter-inner { display: table-row; margin: 0 0 30px; -webkit-transition: var(--mfxBaseTransition); transition: var(--mfxBaseTransition); }
+
+.mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-number { font-size: var(--mfxFontSize_H3); }
+
+.mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper { display: table-cell; font-size: 35px; margin: 0; position: relative; text-align: center; vertical-align: middle; width: 1px; }
+
+.mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper span { display: block; font-size: inherit; line-height: 1; max-height: 2em; max-width: 2em; min-height: 1em; min-width: 1em; padding: 0.5em; position: relative; -webkit-border-radius: var(--mfxRadius_Full); border-radius: var(--mfxRadius_Full); -webkit-box-sizing: content-box; box-sizing: content-box; }
+.mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper span:before { position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); }
+
+.mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper > img { margin: auto; max-width: 50px; position: absolute; bottom: 0; left: 0; right: 0; top: 0; }
+
+.mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper ~ .mfx-counter-number,
+.mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper ~ .mfx-counter-content-wrapper { padding-left: 25px; }
+
+.mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-content-wrapper .mfx-counter-title { font-size: var(--mfxFontSize_H6); }
+.mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-content-wrapper > :not(:last-child) { margin-bottom: 5px; }
+
+
+
+/*--------------------------------------------------------------
+    Default Color
+--------------------------------------------------------------*/
+
+    .mfx-counter-wrapper .mfx-counter-inner .mfx-counter-title,
+    .mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-number { color: var(--mfxHeadAltColor); }
+    .mfx-counter-wrapper .mfx-counter-inner .mfx-counter-subtitle { color: var(--mfxBodyTxtColor); }
+
+    .mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper span { color: var(--mfxAccentTxtColor); fill: var(--mfxAccentTxtColor); }
+
+
+/*--------------------------------------------------------------
+    Accents
+--------------------------------------------------------------*/
+
+    .mfx-counter-wrapper.type1 .mfx-counter-inner .mfx-counter-title:after,
+    .mfx-counter-wrapper.type2 .mfx-counter-inner .mfx-counter-icon-wrapper span { background-color: var(--mfxPrimaryColor); }
+
+
+/*--------------------------------------------------------------
+    Responsive
+--------------------------------------------------------------*/
+
+    /*----*****---- << Mobile (Landscape) >> ----*****----*/
+
+	/* Common Styles for the devices below 767px width */
+	@media only screen and (max-width: 767px) {
+
+
+    }

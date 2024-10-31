@@ -1,0 +1,72 @@
+
+/*--------------------------------------------------------------
+    Base Styles
+--------------------------------------------------------------*/
+
+.mfx-mailchimp-wrapper > h2 { margin-top: 10px;  }
+.mfx-mailchimp-wrapper .mfx-subscribe-frm input[type="text"],
+.mfx-mailchimp-wrapper .mfx-subscribe-frm input[type="email"] { margin-bottom: 20px; }
+
+.mfx-mailchimp-wrapper .multifox_ajax_subscribe_msg { position: relative; display: flex; width: 100%; align-items: center; justify-content: center;
+margin: 20px 0 0; }
+
+.mfx-mailchimp-wrapper .multifox_ajax_subscribe_msg:empty { display: none; }
+
+.mfx-mailchimp-wrapper .success-msg {color:#5cb85c}
+.mfx-mailchimp-wrapper .error-msg {color:#d9534f}
+
+/* Type 1 */
+
+.mfx-mailchimp-wrapper.type1 { display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-flow: row wrap; flex-flow: row wrap; -webkit-box-pack: start; -ms-flex-pack: start; justify-content: flex-start; -webkit-box-align: start; -ms-flex-align: start; align-items: center; flex-wrap: wrap; }
+
+.mfx-mailchimp-wrapper.type1 .mfx-subscribe-frm { display: flex; width: 100%; position: relative; padding: 15px 35px; margin: 0;
+background-color: var(--mfxTertiaryColor); border-radius: var(--mfxRadius_Part); }
+
+.mfx-mailchimp-wrapper.type1 .mfx-subscribe-frm input {
+border: none; margin: 0; background: transparent; padding: 0; box-shadow: none; -webkit-box-shadow: none; outline: none; line-height: normal; }
+
+.mfx-mailchimp-wrapper.type1 .mfx-subscribe-frm input[type="email"] { padding-right: 25px; }
+
+.mfx-mailchimp-wrapper.type1 .mfx-subscribe-frm input[type="submit"] { border-left-width: 2px; border-left-style: solid; border-left-color: var(--mfxPrimaryColor); border-radius: 0; padding: 15px 0 15px 25px; text-transform: uppercase; letter-spacing: 0.96px; }
+
+.mfx-mailchimp-wrapper.type1 .mfx-subscribe-frm input[type="submit"] { color: var(--mfxLinkColor); }
+
+.mfx-mailchimp-wrapper.type1 .mfx-subscribe-frm input[type="submit"]:hover { color: var(--mfxLinkHoverColor); }
+
+/* Type 2 */
+
+.mfx-mailchimp-wrapper.type2 { display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-flow: row wrap; flex-flow: row wrap; -webkit-box-pack: start; -ms-flex-pack: start; justify-content: flex-start; -webkit-box-align: start; -ms-flex-align: start; align-items: center; flex-wrap: wrap; }
+
+.mfx-mailchimp-wrapper.type2 .mfx-subscribe-frm { display: flex; width: 100%; position: relative; padding: 15px 0; margin: 0;
+border-width: 0 0 2px 0; border-style: solid; border-color: var(--mfxPrimaryColor); }
+
+.mfx-mailchimp-wrapper.type2 .mfx-subscribe-frm:before { background-color: var(--mfxSecondaryColor); bottom: 0; content: ''; left: 0; margin: 0 auto;
+position: absolute; width: 0; height: 2px; z-index: 1; }
+
+.mfx-mailchimp-wrapper.type2 .mfx-subscribe-frm:hover:before, .mfx-mailchimp-wrapper.type2 .mfx-subscribe-frm:hover:before { width: 100%; }
+
+.mfx-mailchimp-wrapper.type2 .mfx-subscribe-frm input {
+border: none; margin: 0; background: transparent; padding: 0; box-shadow: none; -webkit-box-shadow: none; outline: none; line-height: normal; }
+
+.mfx-mailchimp-wrapper.type2 .mfx-subscribe-frm input[type="email"] { padding-right: 25px; }
+
+.mfx-mailchimp-wrapper.type2 .mfx-subscribe-frm input[type="submit"] { border-left-width: 2px; border-left-style: solid; border-left-color: var(--mfxPrimaryColor); border-radius: 0; padding: 15px 0 15px 25px; text-transform: uppercase; letter-spacing: 0.96px; }
+
+.mfx-mailchimp-wrapper.type2 .mfx-subscribe-frm input[type="submit"] { color: var(--mfxLinkColor); }
+
+.mfx-mailchimp-wrapper.type2 .mfx-subscribe-frm input[type="submit"]:hover { color: var(--mfxLinkHoverColor); }
+
+/*--------------------------------------------------------------
+    Responsive
+--------------------------------------------------------------*/
+
+    /*----*****---- << Mobile (Landscape) >> ----*****----*/
+
+	/* Common Styles for the devices below 767px width */
+    @media only screen and (max-width: 767px) {
+
+        .mfx-mailchimp-wrapper.type1 .mfx-subscribe-frm { padding: 10px 25px; }
+        .mfx-mailchimp-wrapper.type1 .mfx-subscribe-frm input[type="email"] { padding-right: 10px; }
+        .mfx-mailchimp-wrapper.type1 .mfx-subscribe-frm input[type="submit"] { padding: 10px 0 10px 15px; font-size: calc(var(--mfxFontSize_Base) - 2px);}
+
+    }

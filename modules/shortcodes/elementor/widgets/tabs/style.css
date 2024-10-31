@@ -1,0 +1,61 @@
+
+/*--------------------------------------------------------------
+Base Styles
+--------------------------------------------------------------*/
+.mfx-tab-container { float: left; width: 100%; }
+.mfx-tab-container ul.mfx-tab-titles { position: relative; z-index: 1; }
+.mfx-tab-container ul.mfx-tab-titles, .mfx-tab-container ul.mfx-tab-titles li { list-style: none; margin: 0; padding: 0; }
+.mfx-tab-container ul.mfx-tab-titles li { display: inline-flex; }
+.mfx-tab-container ul.mfx-tab-titles li a { border: 1px solid; display: flex; align-items: center; justify-content: center; font-weight: var(--mfxFontWeight_Alt); padding: 10px 15px; width: 100%; }
+.mfx-tab-container ul.mfx-tab-titles li a i { display: inline-block; line-height: inherit; margin: 0 8px 0 0; vertical-align: top; }
+.mfx-tab-container ul.mfx-tab-titles li a svg { display: block; height: 1em; width: 1em; }
+
+.mfx-tab-container .mfx-tab-content { border: 1px solid; padding: 15px; position: relative; z-index: 0; }
+.mfx-tab-container.horizontal ul.mfx-tab-titles { display: flex; flex-wrap: wrap; }
+.mfx-tab-container.horizontal ul.mfx-tab-titles li { flex: 1 0 auto; margin-bottom: 1px; }
+.mfx-tab-container.horizontal ul.mfx-tab-titles li:not(:last-child) { margin-right: 1px; }
+.mfx-tab-container.horizontal .mfx-tab-content { margin-top: -2px; }
+
+
+.mfx-tab-container.vertical ul.mfx-tab-titles { min-width: 200px; }
+.mfx-tab-container.vertical ul.mfx-tab-titles li { display: flex; width: 100%; }
+.mfx-tab-container.vertical ul.mfx-tab-titles li:not(:last-child) { margin-bottom: 1px; }
+.mfx-tab-container.vertical ul.mfx-tab-titles li a { justify-content: flex-start; }
+
+
+/*--------------------------------------------------------------
+Default Colors 
+--------------------------------------------------------------*/
+
+.mfx-tab-container ul.mfx-tab-titles li a, .mfx-tab-container .mfx-tab-content { border-color: var(--mfxBorderColor); }
+
+.mfx-tab-container ul.mfx-tab-titles li.current a, .mfx-tab-container ul.mfx-tab-titles li:hover a, 
+.mfx-tab-container ul.mfx-tab-titles li a:focus, .mfx-tab-container ul.mfx-tab-titles li a:hover { border-color: transparent; color: var(--mfxAccentTxtColor); }
+
+
+/*--------------------------------------------------------------
+Accent Colors 
+--------------------------------------------------------------*/
+
+.mfx-tab-container ul.mfx-tab-titles li.current a, .mfx-tab-container ul.mfx-tab-titles li:hover a, 
+.mfx-tab-container ul.mfx-tab-titles li a:focus, .mfx-tab-container ul.mfx-tab-titles li a:hover { background-color: var(--mfxPrimaryColor); }
+
+
+/*--------------------------------------------------------------
+Responsive
+--------------------------------------------------------------*/
+
+@media only screen and (min-width: 768px) { 
+
+    .mfx-tab-container.vertical { display: flex; }
+    .mfx-tab-container.vertical ul.mfx-tab-titles { width: 30%; }
+    .mfx-tab-container.vertical .mfx-tab-content { margin-left: -1px; }
+
+
+}
+
+
+@media only screen and (max-width: 767px) { 
+
+
+}
